@@ -1,7 +1,7 @@
-/c_tensorflow/callback_files
-/d_cnn/callback_files
-/d_cnn/datasets
-/d_cnn/practice/datasets
-/e_augmentation/datasets
-/f_pretrained_model/datasets
-/f_pretrained_model/callback_files
+./c_tensorflow/callback_files/
+./d_cnn/callback_files/
+./d_cnn/datasets/
+./d_cnn/practice/datasets/
+./e_augmentation/datasets/
+./f_pretrained_model/datasets/
+./f_pretrained_model/callback_files/
